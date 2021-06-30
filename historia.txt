@@ -2,4 +2,4 @@ Hola Mundo
 
 Me llamo Brandon
 
-Rumbo a ser desarrollador web
+Rumbo a ser Frontend Developer
