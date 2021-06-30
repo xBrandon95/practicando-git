@@ -1,5 +1,5 @@
 Hola Mundo
 
-Me llamo Brandon
+Me llamo John Ticona
 
 Rumbo a ser Frontend Developer
